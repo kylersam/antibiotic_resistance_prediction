@@ -1,0 +1,17 @@
+# Ignore RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+
+# Ignore data files
+data/*.csv
+data/*.fasta
+outputs/
+models/*.pkl
